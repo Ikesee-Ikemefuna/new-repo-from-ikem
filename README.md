@@ -47,7 +47,7 @@ that marks someone's walking gait and makes diagnosis of an underlying
 ailment. The Celebral Palsy Assistant and Autism Virtual Reality that
 enables wearers of its VR headset experience what an autistic child goes through everyday. As a matter of fact, the field of neuroscience has
 benefited a great deal from the discipline of artificial intelligence. A lot of
-researches, treatments and therapies are being carried out through AI,
+research, treatments and therapies are being carried out through AI,
 including some breakthroughs in various fields of endocrinology, radiology
 and oncology. It has facilitated early detection in many cases . Even some
 diagnoses that require non-invasive approach have employed AI’s remote
@@ -91,7 +91,6 @@ only a matter of time before antagonists give in to the next AI’s
 outstanding innovation.
 The future of Artificial Intelligence holds a great promise for the field of
 medicine as new researche are ongoing about diagnosis and cure for
-
 some diseases using AI. There is so much hope for the cure of Type 2
 diabetes[6] and significant improvement in Radiology department in the
 nearest future. Artificial intelligence is the new game changer in the field
