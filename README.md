@@ -43,11 +43,9 @@ with no risk of errors. Its precise procedure in turn enhances patient's quick
 recovery. Other AI medical innovations of the like are; the 3D printed
 smart hand that was made to provide more artificial functionality to
 prosthetic limbs. Another such innovation is the Automated Gait Analysis
-that marks someones walking gait and makes diagnosis of an underlying
+that marks someone's walking gait and makes diagnosis of an underlying
 ailment. The Celebral Palsy Assistant and Autism Virtual Reality that
-enables wearers of its VR headset experience what an autistic child goes
-
-through everyday. As a matter of fact, the field of neuroscience has
+enables wearers of its VR headset experience what an autistic child goes through everyday. As a matter of fact, the field of neuroscience has
 benefited a great deal from the discipline of artificial intelligence. A lot of
 researches, treatments and therapies are being carried out through AI,
 including some breakthroughs in various fields of endocrinology, radiology
