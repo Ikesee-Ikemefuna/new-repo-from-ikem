@@ -34,6 +34,7 @@ work these AI machines do, the better they get at these diagnoses. This is
 unlike humans who get fatigued with more work and eventually lose their
 accuracy. It also reduces staff to patient contact thereby limiting the
 number of hospital acquired Covid infections.
+
 Apart from the way it limits new infection and facilitates medicare, its
 innovative reach is unbridled. The implementation of machine learning in
 surgery is one of such great leaps. Some Artificial Intelligence surgical
@@ -56,6 +57,7 @@ healthcare from consulting to diagnosis. For example, AI can alert someone of
 some biomarkers of some diseases in the body, thereby saving people
 trips to the laboratory. AI assisted algorithms are thought to be more
 cost-effective than other forms in medicine[3].
+
 Its ability to see future with genetics and heredity is another magical
 achievement. For example, a Google application called Verily is able
 to forecast heredity and some genetic diseases[3]. This means people can
@@ -79,6 +81,7 @@ surgery machines might take theirs. Lastly, technophobic people would
 not want to embrace these advancements made by Artificial intelligence in
 Medicine no matter how helpful these breakthroughs are either because of
 culture, beliefs or shear neo-luddism.
+
 Although the AI medical system will eventually overcome its challenges of errors and doubts by patients and healthcare professionals[5], there will
 never be a time Artificial Intelligence will completely take over the work
 of health professionals. A balance need to be struck between man
@@ -89,6 +92,7 @@ Intelligence health administered healthcare not to thrive. Although there
 are still some luddites kicking against it on ethical and moral terms. It is
 only a matter of time before antagonists give in to the next AI’s
 outstanding innovation.
+
 The future of Artificial Intelligence holds a great promise for the field of
 medicine as new researche are ongoing about diagnosis and cure for
 some diseases using AI. There is so much hope for the cure of Type 2
